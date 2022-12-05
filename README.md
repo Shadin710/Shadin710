@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadin710&show_icons=true&locale=en&layout=compact" alt="shadin710" /></p>
 
-<h3 align="left">Blogs</h3>
+<h3 align="right">Blogs</h3>
 <ul>
   <li><a href="https://moshiur.hashnode.dev/functions" target="_blank" rel="noreferrer">Functions</a></li>
 </ul>

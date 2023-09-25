@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Moshiur Rahman</h1>
-<h3 align="center">A Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">A Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="gintama.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadin710&label=Profile%20views&color=0e75b6&style=flat" alt="shadin710" /> </p>
 

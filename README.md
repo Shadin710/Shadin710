@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Moshiur Rahman</h1>
-<h3 align="center">A Machine Learning Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="gintama.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadin710&label=Profile%20views&color=0e75b6&style=flat" alt="shadin710" /> </p>
 
-- 🔭 I’m currently working on **3D Object Classification**
+- 🔭 I’m currently making **NAS-Server**
 
-- 🌱 I’m currently learning **Neural Style Transfer**
+- 🌱 I’m currently learning **Terraform**
 
 - 📫 How to reach me **shadin710@gmail.com**
 

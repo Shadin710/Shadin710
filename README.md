@@ -30,4 +30,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Functions](https://moshiur.hashnode.dev/functions)
+- [Overview of Object and Class](https://moshiur.hashnode.dev/overview-of-object-and-class)
+- [Data Cleaning in Data Science](https://moshiur.hashnode.dev/data-cleaning-in-data-science)
 <!-- BLOG-POST-LIST:END -->
